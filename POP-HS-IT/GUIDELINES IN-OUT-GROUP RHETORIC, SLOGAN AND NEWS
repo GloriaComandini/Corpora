@@ -1,0 +1,163 @@
+GUIDELINES IN/OUT-GROUP RHETORIC, SLOGAN AND NEWS
+GLORIA COMANDINI – Università degli Studi di Trento, Italy
+gloria.comandini@unitn.it
+VIVIANA PATTI – Università di Torino, Italy
+patti@di.unito.it
+
+ENGLISH VERSION
+In/Out-group Rhetoric: it has two levels of annotation, yes/no.
+It is typical of populism and it express the opposition between an In-group (us) and an Out-group (them). In the POP-HS-IT corpus, the in-group are Italians, while the out-group are the immigrants, Roma people or Muslims. This rhetoric underlines that there is a very clear distinction between these two groups, but this distinction can be expressed in many ways.
+A.	Usually, this opposition express the idea that the out-group (immigrants, Roma, Muslims) is privileged to the detriment of the in-group, the Italians, as seen in examples 1 and 2.
+(1)	Stranger’s profits take advantage over Italian’s profits.
+(2)	Italian leaved to die for the cold, fake refugees in hotels.
+In some cases, this opposition doesn’t express the notion of privilege explicitly, but it still underlines that Italians live poorly, while the out-group lives well (3).
+(3)	Young people have no future, elders live miserably and struggle, only Roma and illegal immigrants live well.
+Sometimes, this opposition involve explicitly both groups (4), but in other cases it could imply one the groups. In (5) the in-group is implied. In some cases, it is possible that the in-group is “Italy”, used in reference to Italians (6).
+(4)	98.000 Italians migrated because [were] unemployed 181.000 the immigrants arrived in Italy without income
+(5)	He should be throw away in a moat after beating him up …after all the judge will put him under house arrest –the Roma… [= while the judge wouldn’t put an Italian under house arrest, but he would put him in prison]
+(6)	“Ten millions of Euros thown away for Roma people. A slap for Italy” [= a slap for all the Italians, who didn’t get money]
+B.	In other cases, the opposition refers to the idea that the in-group is under siege by the out-group; thus, the in-group need to react in order to survive.
+(1)	Stylist assaulted: “Milan is controlled by immigrants, we need to stop them!”
+(2)	The enemies are not NEAPOLITANS or LEGA NORD’S SUPPORTERS, but this Afroislamic horde that is invading us and being payed…
+(3)	#popemilan2017 hugs #Muslims, a lethal hug that destroys 2000years of #Christian culture.
+(4)	Incredible Roma’s declarations […] We’re discussing even property’s rights
+(5)	The Italian people need to resign itself to the savage immigration and prepare itself massively to leave Italy in order to be replaced by immigrants.
+Slogans: it has two annotation levels, yes/no.
+Slogans are not easy to define, as they are utterances that can potentially contain any part of speech and can assume many syntactical forms. However, slogans are usually brief and incisive clauses, able to convey quickly and firmly a specific message.
+In this case, the research is limited to slogans that are also nominal utterances, thus we are searching for slogans without a verb in a finite form in their main clause. In fact, even if slogans with subordinate clauses are uncommon, they can still occur (5). For more informations, consult the Guideline for the Annotation of Nominal Utterances.
+(1)	Italy to Italians first of all
+(2)	Alright, two three day and then clear off.
+(3)	#Roma the worst race after politicians.
+(4)	No houses for foreigners, especially if house for working class people
+(5)	Hooray for the families’ rebellion against the expropriation of the reception center in order to give it to refugees
+NB: utterances with “Basta” (= “Stop”) are not to be considered as nominal utterances. As a matter of fact, “basta” is a verb in a finite form, although it could be considered a nominalized form. Thus, examples like (6) shouldn’t be annotated as slogans or nominal utterances.
+(6)	Stop immigrates in Italy!
+Utterances with “via” (= “out of the way”) or “fuori” (= “out”), like in (7) and (8), “W” (= “horray”) (9), “stop” (10), or “forza” (= “go!”) should be considered slogans.
+(7)	And after the Roma camps, out of the way the community centers too
+(8)	Refugees out of Italy
+(9)	Go Italy
+(10)	Stop #immigration
+(11)	Stop Islam and go Marine Le Pen
+Some slogans are built around an infinitive (12) or around a deverbal noun (13), which means that these slogans are used to incite to do a certain action:
+(12)	With the Islamic enemy, use [lett: “to use”] the force even if it’s not necessary
+(13)	IMMEDIATE REPATRIATIONS for illegal immigrants, Roma and criminal foreigners everyone!!!
+On Twitter, some slogans can be included in form of hashtags, like in (14), (15) and (16):
+(14)	#stopinvasion #refugeesmyass
+(15)	#recycling
+(16)	#SafeItaly
+In some cases, these slogans can be announced by the user (17), or they can be underlined by a particular expressive emphasis, created by caps lock (18) or iterative punctuation (19):
+(17)	Code word: ETHNIC CLEANSING!
+(18)	COOP=MAFIA
+(19)	Everyone to their houses!!
+Should be counted as slogans also those reported by newspapers (20):
+(20)	Rome, protests from Lega and FDI: “No to refugees at Ferrhotel”
+
+
+News: it has two annotation levels, yes/no.
+This annotation should be applied to the tweets formed by newspapers’ headlines. This kind of tweet can be recognized for two main reasons:
+A.	The tweet has the classic construction of a journalistic headline, informing about events in a rather neutral way, like in (1) and (2).
+(1)	Day of remembrance: tomorrow to the Senate “the removed memory of Roma and Sinti”
+(2)	A gang of Roma rapes a 13yo teenager in Milan: fugitive arrested https://t.co/ZBImU3TJcm
+However, be aware that some headlines may be voluntarily provocative, appearing as less professional, but of more impact, like (3) and (4).
+(3)	The Roma’s high life is over: get out cars and luxury goods for 300 thousands Euros
+(4)	Rome, Roma “resources” out of control: they beat a peddler and spit at police officer’s faces - webitalia360 https://t.co/GZz6HMdTMO
+Usually, the newspaper’s headline is introduced by a special reference to the place in which the event happened. References like (5) and (6) make clear that these tweets are newspaper’s headlines.
+(5)	Rome: a Japanese tourist has been surrounded by 5 Roma, three of them… https://t.co/P2g7fOSlzA
+(6)	Turin Roma people throw rocks against a 118 ambulance, the rescuers forced to flee.
+Sometimes, the newspaper’s headline is followed by a series of hashtags related to journalism’s world, like in (7) and (8). These hashtags are also hints to the fact that these tweets are News.
+(7)	Chinese student dead in Rome, stopped two young residents of the Roma camp in Salviati street https://t.co/fwBwE2OMlf #report
+(8)	#news #news #lastnews All the (infallible) tricks of Roma young thieves. How can they fool you with a bib
+B.	The tweet includes the name of the newspaper, in addition to having the classical construction of the headline explained in A. This name can be positioned before or after the headline, like in (9) or (10), it can be an hashtag (11), or a reference to the Twitter profile of the newspaper (@+name) (12).
+(9)	Journal of Sicily: Theft at the ER, cellphone recovered at the Favorita’s trailer park https://t.co/GR1W4u88rA #palermo
+(7)	Rome, captured the gang of car’s mice: 3 Roma arrested – The Messenger https://t.co/lG1jW9tzjG #Roma #news
+(10)	Major’s no to the Roma’s and Sinti’s nomadic deportee… #canavesenews
+(11)	Milan, friendly dinner with a #Roma family: ‘Nice to see eachother at home after years in the shacks’ @santegidionews
+NB: If the tweet contains the characteristics of A. and B., but it also has a personal comment, clearly written with a different style, tone and/or orthography, like in (12) and (13), then DON’T ANNOTATE THE TWEET AS “NEWS”.
+(12)	BEASTS: KICK THEM OUT OF ITALY! Trieste, kicks and punches until she’s disfigured: beated by Roma out of vengeance… https://t.co/iNYQXRov7c
+(8)	Wonderful! Rome: Roma’s gang asked him protection money for 2 years, exhausted restaurant owner kills them with an assault rifle - https://t.co/Pd9HWV8fkL
+
+
+ITALIAN VERSION
+
+In/Out-group Rhetoric: ha due livelli, yes/no. 
+Tipica del populismo, esprime l’opposizione fra un in-group (noi) e un out-group (loro). In corpus POP-HS-IT, l’in-group sono gli Italiani, mentre l’out-group è costituito dagli immigrati, dai rom o dai musulmani. Questa retorica sottolinea come ci sia una distinzione netta tra i due gruppi, ma questa distinzione può tradursi in vari modi.
+A) Generalmente, questa opposizione esprime l’idea che loro (gli immigrati/rom/musulmani) siano privilegiati a discapito del noi (gli Italiani), come si vede negli esempi (1) e (2).
+(1)	interessi stranieri prevaricano interessi itaiani
+(2)	Italiano lasciato morire di freddo, finti profughi in hotel.
+In alcuni casi, questa opposizione non parla esplicitamente di privilegio, ma sottolinea comunque che gli Italiani vivano male, mentre gli immigrati vivono bene (3).
+(3)	i giovani non hanno futuro, gli anziani vivono da miserabili e di stenti, vivono bene sono i rom e exstacomunitari
+A volte questa opposizione introduce esplicitamente entrambi i gruppi (4), ma in altri casi lascia un gruppo sottinteso. In (5) è sottinteso l’in-group. In alcuni casi è possibile che l’in-group sia “l’Italia”, usato per riferirsi agli Italiani (6).
+(4)	98.000 italiani emigrati Xché disoccupati 181.000 gli immigrati giunti in italia senza reddit
+(5)	va buttato nei fossi dopo averlo marzagrato di botte ...tanto il giudce li darà i domiciliari --al rom... [= invece ad un Italiano il giudice non avrebbe dato i domiciliari]
+(6)	"Dieci milioni di euro buttati per i rom. Schiaffo all'Italia: [=schiaffo agli Italiani che invece non hanno ricevuto questi soldi]
+
+B) In altri casi la differenza richiama l’idea che l’in-group sia sotto assedio dell’out-group e debba in qualche modo reagire per sopravvivere.
+(1)	Stilista aggredito: “Milano è in mano agli immigrati, dobbiamo fermarli”
+(2)	Nemici non sono NAPOLETANI ne' LEGHISTI,ma questa orda Afroislamica che ci invade pagata…
+(3)	#papamilano2017 abbraccia gli #islamici, un abbraccio fatale che distrugge 2000anni di storia #cristiana.
+(4)	Incredibili dichiarazioni di un rom […] Siamo arrivati a discutere anche il diritto di proprietà
+(5)	Il Popolo italiano deve rassegnarsi all'immigrazione selvaggia e attrezzarsi per lasciare in massa l'Italia per far posto agli immigrati.
+
+Slogan: ha due livelli, yes/no.
+Gli slogan non sono di facile definizione, poiché si tratta di enunciati che, potenzialmente, potrebbero contenere al proprio interno tutte le parti del discorso e possono assumere molte forme sintattiche diverse. Tuttavia, gli slogan sono quasi sempre frasi brevi ed incisive, fatte per veicolare velocemente e in maniera perentoria un messaggio specifico.
+In questo caso si stanno ricercando gli slogan che sono anche enunciati nominali. Quindi, stiamo cercando slogan senza verbi in forma finita nella loro frase principale. Sebbene le frasi subordinate siano rare, infatti, esistono (5) 
+(1)	L'Italia e gli italiani prima di tutto.
+(2)	Bene due tre gg dopodiché smammare...
+(3)	#rom la peggiore razza dopo i pollitici
+(4)	Niente case agli stranieri specie se popolari
+(5)	W la ribellione delle famiglie contro esproprio del centro di ritrovo per darlo ai profughi.
+NB: Le costruzioni con “basta” non si devono considerare come nominali. “Basta” (sebbene con qualche dubbio, perché potrebbe essere una forma nominalizzata) è da considerarsi come un verbo. Quindi, esempi come (6) non vanno annotati come slogan.
+(6)	Basta immigrati in Italia!
+Sono da considerarsi slogan costruzioni con “via” o “fuori”, come in (7) e (8), “W” (9), “stop” (10), “forza” (11):
+(7)	E dopo i campi rom via pure i centri sociali
+(8)	Fuori i migranti dall italia
+(9)	w l'Italia
+(10)	stop #immigrazione
+(11)	Stop islam e forza Marine Le Pen
+Alcuni slogan sono costruiti attorno ad un infinito (12) o attorno ad un nome deverbale (13), segno che sono utilizzati per esortare a compiere una certa azione.
+(12)	Col nemico islamico usare la forza anche se non serve
+(13)	RIMPATRII IMMEDIATI di clandestini rom e stranieri criminali tutti!!!
+Su Twitter, alcuni slogan possono essere inseriti sotto forma di hashtag (14), (15) e (16):
+(14)	#stopinvasione #profughiuncazzo
+(15)	#raccoltadifferenziata
+(16)	#ItaliaSicura
+In alcuni casi, questi slogan sono anche o annunciati dallo stesso scrivente (17), oppure sono sottolineati da una particolare enfasi espressiva, creata col maiuscolo (18) o con la punteggiatura ripetuta (19):
+(17)	Parola d'ordine: PULIZIA ETNICA!
+(18)	COOP =MAFIA
+(19)	Tutti a casa loro!!
+Tra gli slogan si contano anche quelli riportati da articoli di giornale (20):
+(20)	Roma, proteste da Lega e Fdi: "No ai profughi al Ferrhotel"
+
+
+News: ha due livelli, yes/no.
+Questo tag contraddistingue i tweet costituiti da titoli di articoli di giornale. Questo genere di tweet si riconosce per due ragioni principali:
+a)	Il tweet ha la classica forma del titolo giornalistico, che informa dell’avvenimento di un fatto in maniera piuttosto neutra, come si vede in (1) e (2).
+(1)	Giornata della memoria: domani al Senato “la memoria rimossa del genocidio di rom e sinti”
+(2)	Un branco di rom stupra una ragazzina di 13 anni a Milano: arrestato un latitante https://t.co/ZBImU3TJcm
+Tuttavia, si tenga conto del fatto che alcuni titoli possono essere volutamente provocatori, apparendo come meno professionali, sebbene capaci di attirare l’attenzione, come il (3) e (4).
+(3)	Finisce la bella vita dei rom: via auto e beni di lusso per 300mila euro
+(4)	Roma, “risorse” rom fuori controllo: picchiano un ambulante e sputano in faccia ai poliziotti – webitalia360 https://t.co/GZz6HMdTMO
+Spesso, il titolo di giornale è introdotto da un riferimento spaziale alla località in cui il fatto raccontato è svolto. Riferimenti come quelli di (5) e (6) rendono evidente che si tratti di un articolo di giornale.
+(5)	Roma: un turista giapponese viene accerchiato da 5 rom, tre di loro... https://t.co/P2g7fOSlzA
+(6)	Torino i rom lanciano sassi contro un'ambulanza del 118,i soccorritori costretti alla fuga.
+A volte il titolo di giornale è accompagnato anche da una serie di hashtag relativi al mondo del giornalismo (7) e (8). Anche questi sono indicatori del fatto che sia una News.
+(9)	Studentessa cinese morta a Roma, fermati due giovani residenti campo rom di via Salviati https://t.co/fwBwE2OMlf #cronaca
+(10)	#notizie #news #ultimenotizie Tutti i trucchi (infallibili) delle ladruncole rom. Come ti fregano con una pettorina
+b)	Il tweet contiene il nome della testata giornalistica, oltre ad avere la classica forma del titolo giornalistico del punto a). Questo nome può essere anche inserito prima o dopo il titolo (9) e (10), come hashtag (11) o come riferimento al profilo Twitter della testata (@+nome) (12).
+(11)	Giornale di Sicilia: Furto al pronto soccorso, cellulare ritrovato al campo nomadi della Favorita https://t.co/GR1W4u88rA #palermo
+(12)	Roma, presa la banda dei topi d'auto: arrestati 3 rom - Il Messaggero https://t.co/lG1jW9tzjG #Roma #news
+(13)	No del sindaco alla mostra sui deportati nomadi Rom e Sinti... #canavesenews
+(14)	Milano, cena in amicizia con una famiglia #rom: 'Bello incontrarci a casa dopo anni nelle baracche' @santegidionews
+NB: Se il tweet contiene le caratteristiche dei punti a) e b), ma ad essi si aggiunge anche un commento personale, evidentemente scritto con uno stile, un tono e/o un’ortografia differenti, come in (13) e (14), allora NON ANNOTARE IL TWEET COME NEWS.
+(15)	LE BESTIE: A CALCI VIA DALL'ITALIA! Trieste, calci e pugni fino a sfigurarla: picchiata dai rom per vendetta… https://t.co/iNYQXRov7c
+(16)	Bellissimo! Roma: banda di rom gli chiedeva il pizzo da 2 anni, ristoratore esausto li uccide a colpi di mitra - https://t.co/Pd9HWV8fkL
+
+
+
+
+
+
+
+
+
+
