@@ -1,0 +1,271 @@
+HS_NUs_Tag	XP
+<NU> RIMPATRII IMMEDIATI FORZATI </NU>	NP
+<NU> Tutti da chiudere. </NU>	DP
+<NU> possibile che non possiamo cacciare questi maledetti rom dall'italia? </NU>	AP
+<NU> quella dei forni della Italsider. </NU>	DP
+<NU> I rom feccia della societa.... </NU> 	vP (DP + NP)
+<NU> bruciare immediatamente i campi...magari con loro dentro </NU>	VP
+<NU> vitalizio, rom,negri, delinquenti. </NU>	vari (DP)
+<NU> identificarli tutti e perquisire dove abitano </NU>	VP
+<NU> LE BESTIE: </NU> 	DP
+<NU> A CALCI VIA DALL'ITALIA! </NU>	FocP
+<NU> tagliare le mani #iene e poi espulsione per lei e tutti il campo #nomadi #zingari </NU>	Coord (VP & NP)
+<NU> #zingari Anche no...anche due calci in culo e fuori dalle palle.. </NU> 	vP (NP + AdvP)
+<NU> Bene due tre gg dopodiché smammare... </NU>	NP
+<NU> tutti fuori clandestini e rom ! </NU>	FocP
+<NU> la feccia della feccia...ladri..spacciatori..prostituzione </NU> 	vari (DP + NP)
+<NU> ....Da cacciare tutti... </NU>	CP
+<NU> Contro i luridi pezzenti #rom (e #zecche)s… </NU>	AdvP
+<NU> Ragazza cinese rapinata+uccisa da rom,sempre loro in tutta Italia: </NU>	vP (NP + &P (VP + VP))
+<NU> Prima espulsione forzata di massa di tutti i clandestini,migranti,richiedenti asilo,rom. </NU> 	NP
+<NU> X trasgressori arresto e miniere. </NU>	FocP
+<NU> che fine dimmerda spollato dagli zongari #rom la peggiore razza dopo i pollitici </NU>	vari (vP + vP)
+<NU> RIMPATRII IMMEDIATI di clandestini rom e stranieri criminali tutti!!! </NU>	NP
+<NU> Merde di rom </NU>	NP
+<NU> Dopo i campi rom via pure i centri sociali. </NU>	FocP
+<NU> fuori zingari rom sinti e Merda varia via clandestini parassiti quindi tutti bomba a Montecitorio </NU>	vari (FocP + FocP)
+<NU> Niente case agli stranieri specie se popolari </NU>	NP
+<NU> Via gli stranieri da l'Italia se non hanno lavoro. </NU>	FocP
+<NU> W la ribellione delle famiglie contro esproprio del centro di ritrovo per darlo ai profughi. </NU>	AdvP
+<NU> Espulsione immediata per ogni straniero che prenda anche solo una multa per divieto di sosta: </NU>	NP
+<NU> oltre alle carceri, mandare tutti gli stranieri a scontare le pene a casa loro!! </NU>	VP
+<NU> #stopinvasione #profughiuncazzo </NU>	vari (AdvP + vP)
+<NU> Parola d'ordine: PULIZIA ETNICA! </NU>	vP (NP + NP)
+<NU> via dall'Italia gli immigrati clandestini e tutti i politici incapaci di governare l'Italia </NU>	FocP
+<NU> Bellissimo! </NU>	AP
+<NU> 1piano demoniaco. </NU>	DP
+<NU> #bosnia e #kosovo base per terroristi. </NU>	vP (&P (DP + DP) + NP)
+<NU> Gioventù italiana dal sud al nord, quando gli immigrati toccano un italiano/a, tutti per uno e uno per tutti,bastonare ad occhi aperti </NU>	VocP
+<NU> e quelli che sono uccise x mano delle merde negre!!! </NU>	DP
+<NU> E meno male che dovevano pagare le nostre pensioni... #migranti #parassiti #invasione </NU>	NP
+<NU> checche a gogo che vogliono fare i genitori </NU>	NP
+<NU> TOLLERANZA 0 </NU>	NP
+<NU> Militari infami traditori, </NU>	NP
+<NU> L'Italia e gli italiani prima di tutto. </NU>	vP (&P (DP + DP) + AdvP)
+<NU> l'Italia agli italiani </NU>	DP
+<NU> Dalle piazze d’Italia la vita d’INFERNO dei cittadini x colpa dei migranti-clandestini, tutte le sere h 20,30 rete4 </NU>	DP
+<NU> Stop profughi. </NU> 	AdvP
+<NU> necessario esercito x sicurezza cittadini </NU>	FocP
+<NU> L er famiglie italiane per il NO al bastardo Renzi amico di islamici e pederasti vari! </NU>	DP
+<NU> fuori dal nostro paese la culturista </NU>	FocP
+<NU> #StopIslam Francia. </NU>	AdvP
+<NU> Via tutti. </NU>	FocP
+<NU> Maledetti!! </NU>	AP
+<NU> Guerra etnica? </NU> 	NP
+<NU> ....a immigrati! !!! </NU>	PP
+<NU> Altro scippo di un immigrante ad una ragazzina... </NU>	NP
+<NU> Oltre a gentaglia satanica della casta. </NU>	AdvP
+<NU> #raccoltadifferenziata #Italia </NU>	NP
+<NU> Arricchimento culturale musulmano alla boldrini e kyenge. </NU>	NP
+<NU> poveretta, morta per colpa del problema tutto italiano dei ladri impuniti se clandestini e rom </NU>	VP
+<NU> pezzi di merda loro e tutto lislam </NU>	FocP
+<NU> pena capitale x tutti musulmani in Europa immediatamente! </NU>	NP
+<NU> l'islam messo fuori legge, e gli islamici a casa loro. </NU>	&P (vP + DP)
+<NU> un eccellenza italiana che ferma i #terroristi dal 1975 </NU> 	DP
+<NU> (I suoi concorrenti "parole, bandiere della pace… </NU>	vP (DP + NP))
+<NU> NO PROBLEM IN GALERA TUTTI E 3 FINE PENA MAI!! </NU>	vari (AdvP + FocP + FocP)
+<NU> Migranti profughi richiedenti asilo Tutti clandestini, per agitare le folle... </NU>	vP (NP + DP)
+<NU> uno in meno. </NU>	DP
+<NU> Grazie ai 20 milioni di italiani che hanno consegnato il paese alla peggio feccia del #populismo #immigrazione. </NU>	Non class
+<NU> Le risorse della sinistra e di Bergoglio </NU>	DP
+<NU> Smettere di dare soldi per immigrati. </NU>	VP
+<NU> #Risorse da accogliere... </NU>	NP
+<NU> cuculo sradicato sradicante come tutti ebrei perciò di sinistra pro neri gay rom </NU>	NP
+<NU> bella merda proprio... </NU>	NP
+<NU> niente di straniero a meno che non si alza il prezzo niente turisti americani e aziende americane </NU>	vari (DP + NP)
+<NU> Via tutti </NU>	FocP
+<NU> Anche nell'italietta che si è permessa di uccidere un Martire di Allah </NU>	PP
+<NU> bentornata Politica benvenuta eliminazione del terrorismo islamico, islamista e musulmano </NU>	Non class
+<NU> Governo di merda! </NU>	NP
+<NU> africanizzazione di Milano tutto secondo i piani della invasione ed espansione islamica in Occidente </NU>	vari (NP + QP)
+<NU> Bene operazione rom, adesso sgombrare campo e riqualificare riserva </NU>	vari (AdvP + &P (VP +VP))
+<NU> le ruspe per i campi rom, </NU>	DP
+<NU> Papa accogliere 3% cacciare cacciare clandestini islamici rom difendere Italia e italiani </NU>	VocP
+<NU> Che ignoranti quelli che difendono i rom, la peggior feccia sulla faccia della terra #Lidl </NU>	FocP
+<NU> Rom e zingari fuori dai coglioni. </NU>	vP (&P + PP)
+<NU> Della serie "rom che non rubano": </NU> 	PP
+<NU> Furto di energia, il vizietto dei rom: </NU>	vari (NP + DP)
+<NU> I rom tutti fuori...... </NU> 	vP (DP + QP)
+<NU> chi no....fuori dai coglioni </NU>	vP (DP + PP)
+<NU> islam cancro del mondo e distruzione della civiltà </NU>	vP (DP + &P (NP + NP))
+<NU> Proprio tutti anche gli immigrati. </NU>	DP
+<NU> BUFFONI 98.000 italiani emigrati Xché disoccupati 181.000 gli immigrati giunti in italia senza reddito Senza lavoro Con iPhone E assistiti! </NU>	vari (AP + vP + vP)
+<NU> Vergogna,prima pensare agli italiani </NU>	vari (NP + VP)
+<NU> ma questa orda Afroislamica che ci invade pagata… </NU>	CP
+<NU> tutti pro clandestini rom iussoli e stranieri criminali e mai con italiani </NU>	DP
+<NU> Bravooo </NU>	AP
+<NU> SUBIRE e essere islamizzati, </NU>	&P (VP + VP)
+<NU> Jerry Ogboru il violentatore di padova #stopinvasione #salvini </NU>	vari (DP + AdvP)
+<NU> ...A CALCI! </NU>	PP
+<NU> Sharia 4 all teste di cazzo terzomondiste. </NU>	DP
+<NU> #StopIslam perché tutti i #terroristi sono #musulmani </NU>	AdvP
+<NU> Un buchetto in fronte e via. </NU>	&P (DP + AdvP)
+<NU> Espulsione immediata! </NU>	NP
+<NU> Come fermare l'invasione '@profughi? </NU> 	CP
+<NU> Cacciando il governo cattocomunista, che ci sta privando della nostra etnia e ci inimicizza con l'EU! </NU>	VP
+<NU> a casa tutti quanti islamici musulmani clandestini e zingari! </NU>	FocP
+ <NU> VIA TUTTI! </NU>	FocP
+<NU> Ma lo stesso tempo x i bimbi rom che chiedono l'elemosina o rubano nella case,no? </NU>	CP
+<NU> Espianto di organi ai terroristi in carcere: </NU>  	NP
+<NU> Un caso di bene di pubblica utilità! </NU>	DP
+<NU> Anziché prendere vite da terrorista, donarle da donatore. </NU>	VP
+<NU> Uno schifo #gentiloni </NU>	FocP
+<NU> LE BESTIE: </NU>	DP
+<NU> A CALCI VIA DALL'ITALIA! </NU>	FocP
+<NU> Agghiacciante. </NU>	AP
+<NU> Maledetti #pd #fi #alfano #ncd #sel che stanno importando terrorismo e distruggendo la vita… </NU>	FocP
+<NU> Tutti nullafacenti ma molto te… </NU>	DP
+<NU> Via crucis e pasqua blindati terrorista apiede libero d'Italia </NU>	vari (&P (DP + DP) + NP)
+<NU> ..avanti invasion </NU>	NP
+<NU> predatore della vostra vita!… </NU>	NP
+<NU> Stop islam e forza Marine Le Pen </NU>	&P (AdvP + NP)
+<NU> A Parigi anche stavolta dimostrazione che non tutti gli islamici sono terroristi, ma i terroristi sono tutti islamici </NU>	NP
+<NU> Affermare l'inizio della TERZA GUERRA MONDIALE x causa di religione no… </NU>	VP
+<NU> clandestino, islamico radicale e terrorista. </NU>	&P (AP)
+<NU> “Via tutti gli immigrati dal nostro territorio entro 20 giorni” </NU>	FocP
+<NU> immigrati che non si integrano ma usufruiscono di tutti i ns.servizi pubblici. </NU> 	NP
+<NU> prima gli italiani! </NU>	DP
+<NU> grande balla NOn profughi ma tanti clandestini poveri diavoli ma anche tanti potenziali futuri criminali che dovremo mantenere </NU>	vari (NP + ButP + ButP)
+<NU> ridicolo servizietto a #piazzapulita che vorrebbe dimostrare che i #migranti sono tutti rifugiati oggetto di razzismo e i poliziotti merde. </NU>	NP
+<NU> Sempre a fare servizi strappa lacrime sugli immigrati,come se fossero tutti dei martiri. </NU> 	AdvP
+<NU> Quasi tutti criminali </NU>	NP
+<NU> stop #immigrazione </NU>	AdvP
+<NU> a proposito dell'IMMANCABILE Iphone in mano a tutti i finti profughi: </NU>	PP
+<NU> Via questi immigrati dall'Italia e castigare i nostri POLITICI che li fanno entrare qualsiasi colore di bandiera sia </NU>	&P (FocP + VP)
+<NU> Italia sotto attacco da soggetti stranieri. </NU>	DP
+<NU> Accoglienza per i migranti? </NU> 	NP
+<NU> No grazie, la petizione a Cava de’ Tirreni </NU>	vari (? + DP)
+<NU> Ma le chiamate da Milano dalla #telecom che ricevo (ovviamente centralinisti stranieri) che sfiorano lo stalking? </NU>	DP
+<NU> Tutti uomini, giovani e belli pasciuti! </NU>	NP
+<NU> Ma che idioti gli italiani che parlano di immigrati e profughi! </NU>	FocP
+<NU> migranti economici, nel senso che li dobbiamo mantenere gratis tutta la vita senza fare un cazzo? </NU>	NP
+<NU> in Italia, prima gli Italiani Dare la casa agli stranieri,DOPO che nessun Italiano sia costretto a vivere per strada o in macchina </NU>	vari (AdvP + VP)
+<NU> meglio farli entrare e appiccicarli agli altri ! </NU>	AP
+<NU> Clandestini non profughi!! </NU>	NP
+<NU> tutto agli stranieri,a noi in difficoltà,l'abbandono di questi governi </NU>	vari (DP + FocP)
+<NU> Forza Nuova #accoglienzabussiness #stopfintiprofughi </NU>	vari (DP + NP + AdvP)
+<NU> Stop al multiculturalismo, </NU>	AdvP
+<NU> non i disoccupati europei. </NU>	DP
+<NU> ah già le famose immigrate che costringono i clienti italiani per le strade a fare sesso con loro. </NU> 	DP
+<NU> Disgraziate! </NU>	AP
+<NU> Vietato dare cibo ai migranti. </NU>	VP
+<NU> ...e agli immigrati pure il Wi-Fi!✔️ </NU>	FocP
+<NU> Fuori i migranti dall italia </NU>	FocP
+<NU> via tutti gli immigrati irregolari! </NU>	FocP
+<NU> E il welfare di cui godono in grande maggioranza??? </NU>	DP
+<NU> quanti ancora? </NU>	CP
+<NU> Italiani ridotti alla fame. </NU> 	vP (DP + VP)
+<NU> E prefetti che espropriano hotel per piazzarci i migranti. </NU>	NP
+<NU> Vittorio Veneto, cibo e pane gettato nei cassonetti dai “profughi”. </NU> 	vP (&P (NP + NP) VP)
+<NU> U gesto infame pagato… </NU>	vP (DP + VP)
+ <NU> ancora di meno se è 1 immigrato </NU>	PP
+ <NU> Rifugiato pakistano "accolto" in Germania o "profugo" tunisino "accolto" (in carcere) in Italia? </NU>	&P (vP (NP + VP) + vP (NP + VP))
+ <NU> #meningite il regalo dei #migranti </NU>	vP (NP + DP)
+<NU> ma solo immigrati </NU>	NP
+<NU> I risultati della buonista Merkel? </NU>	DP
+<NU> Hotel ai migranti e estrazione a sorte per gli italiani. </NU>	&P (NP + NP)
+<NU> Pugno di ferro </NU>	NP
+<NU> Altri migranti in Italia </NU>	NP
+<NU> per gli immigrati tutti gratis </NU>	FocP
+<NU> tutti via </NU>	DP
+<NU> via immigrati </NU>	AdvP
+<NU> Ancora #migranti Ancora STUPRATORI </NU>	vari (NP + NP)
+<NU> COR CAZZO!!! </NU> 	PP
+<NU> Alla faccia degli immigrati, Africa, sinergie &amp; cazz varie </NU>	PP
+<NU> Minori stranieri nn accompagnati? </NU> 	NP
+<NU> Miniera d'oro x Onlus </NU>	NP
+<NU> Gli italiani? </NU> 	DP
+<NU> DOPO… </NU>	PP
+<NU> dal sito "tutti i crimini degli immigrati punto com" alla faccia della xenofobia </NU>	PP
+<NU> interrompere salvataggi in africa migranti e spendere tutti 3.8 miliardi x i terremotati che x gli stranieri </NU>	&P (VP + VP)
+<NU> 24/25 marzo #ForzaNuova e #Roma ai Romani in piazza contro #UE #BCE ed #immigrazione... </NU>	DP
+<NU> la figlia del ministro dell'economia portavoce dei migranti abusivi. </NU>	vP (DP + NP)
+<NU> Ong italiane, francesi, norvegesi, accanite nel prendere migranti e scaricarli SEMPRE e SOLO in ITALIA! </NU>	NP
+<NU> •Persona ingrata! </NU>	NP
+<NU> #vaccino antitetanico per tutti visto i continui sbarchi di profughi #infetti </NU>	NP
+<NU> Tg5 anche oggi 1100 immigrati SALVATI (!?)e sbarcati in Italia con contorno di piagnistei per i maltrattamenti subiti in Libia </NU>	vP (NP + &P (VP + VP))
+<NU> possibile che i CLANDESTINI possono bloccare ferrovia? </NU>	AP
+<NU> Fucilare Soros e la sua cosca mafiosa </NU> 	VP
+<NU> W Putin W la guerra. </NU>	vari (AdvP + AdvP)
+<NU> impossibile dialogare con chi ti vuole annientare completamente </NU>	AP
+<NU> Gli invasori islamici? </NU>	DP
+<NU> peggio X loro se perdono i figli ! </NU>	AP
+<NU> Mitico #scatà che ha ucciso il terrorista di #Berlino! </NU> 	FocP
+<NU> ...IT piena di delinquenti terroristi grazie al governo di deficienti finto buonisti </NU>	DP
+<NU> Espellere TUTTI i musulmani. </NU> 	VP
+<NU> Male estremo, rimedi estremi… </NU>	vari (NP + NP)
+<NU> importare tutti i criminali africani e gli ex guerriglieri e un po di terroristi </NU>	VP
+<NU> Evidente una volta ancora il pactum sceleris fra mondialisti guerrafondai e jihadisti musulmani. </NU>	FocP
+<NU> Contro l'invasione islamica!1!1! </NU>	PP
+<NU> Minorenne immigrato terrorista mancato, che in Italia, grazie alla nuova legge sui minori non accompagnati,... </NU>	vP (NP + NP)
+<NU> Sconfiggere il malware del terrore,esportare Norton nei paesi canaglia,defrag settimanale per l'Isis. </NU>	vari (VP + VP + NP)
+<NU> sempre marocchini...islamici delinquenti! </NU>  	vari (NP + NP)
+<NU> Sempre loro </NU>	DP
+<NU> Via dall Italia!!!! </NU>	AdvP
+<NU> Ovvio che vogliono colonizzarci con l'islam!! </NU>	AP
+<NU> N’amore proprio. </NU>	DP
+<NU> Tutti uguali i musulmani..... </NU> 	FocP
+<NU> e dopo in pasto ai porci che dia… </NU>	PP
+<NU> fanculo all'islam, per loro tutto il nostro calore </NU>	Non class
+<NU> grazie a questa setta che nel mondo non c'è + civiltà </NU>	Non class
+<NU> arabi e musulmani,rimandarli nei paesi arabi. </NU>	FocP
+<NU> #Bastardislamici. </NU>  	FocP
+<NU> Islam: </NU>	DP
+<NU> religione di merda. </NU>	NP
+<NU> poveri islamici incompresi e maltratt… </NU>	NP
+<NU> ennesimo attacco da parte di chi ama l'islam, due morti e parecchi feriti </NU>	&P (NP + NP + NP)
+<NU> MALEDETTI X ETERNITÁ TUTTI I TERRORISTI </NU>	FocP
+<NU> schifo non solo per islamici ma anche per chi gli si sottomette </NU>	NP
+<NU> Luridi islamici. </NU>	NP
+<NU> Candidati dem in quanto musulmani </NU>	NP
+<NU> Da domani tutti islamici e tu in giro con il velo? </NU>	&P (vP + vP)
+<NU> prendere potere pubblico bianco da usare contro bianchi </NU>	VP
+<NU> Un modo disgustoso per giustificare loro e islam. </NU>	DP
+<NU> fuori dal Italia e la boldrini con loro </NU>	&P (FocP + DP)
+<NU> meno male che lo fanno loro e non i palestinesi... </NU> 	NP
+<NU> tutti lazzaroni e terroristi.. </NU>	DP
+<NU> Italia prima al mondo in import-export terroristi. </NU>	vP (DP + AP)
+<NU> X assassini isis musulmani in piazza 2 gatti. . </NU>	FocP
+<NU> Del resto invisi agli islamici. </NU>	AP
+<NU> Che schifo! </NU>	NP
+<NU> Italia base di appoggio e serva ISIS con governo #PD CONSENZIENTE </NU>	vP (DP + &P (NP + NP))
+<NU> L'islam. </NU> 	DP
+<NU> Vecchi schifosi che stuprano bambine con la scusa della religione </NU>	NP
+<NU> poveri giovani,poveri,senza lavoro e pieni solo di afroislamici... </NU> 	NP
+<NU> che prospettiva💩💩💩💩 </NU>	NP
+<NU> e allora tutti fuori dai coglioni… </NU>	vP (DP + PP)
+<NU> Soldi bruciati! </NU>	vP (NP + VP)
+<NU> fuori tutti </NU>	FocP
+<NU> “In #Italia viavai di terroristi. </NU>  	NP
+<NU> Subito via gl’#irregolari” </NU>	FocP
+<NU> Quelli votati con Legge anticostituzionale? </NU>	DP
+<NU> tra poco Italia tutta islamica . </NU>	vP (DP + AP)
+<NU> FUORI QUESTE MERDE UMANE DALL'ITALIA. </NU> 	FocP
+<NU> SUBITO. </NU>	AdvP
+<NU> #ITALIA agli #ITALIANI NO #moschee, #islam, #arabi </NU>	vari (DP + AdvP)
+<NU> Parigi altro che "città dell'amore": </NU> 	vP (DP + AP)
+<NU> fogna mista africani/musulmani! </NU>	NP
+<NU> Via dai banchieri spa e schiavisti. </NU>  	FocP
+<NU> Banca Nazionele e confini ripristinati. </NU>	vP (&P (DP + NP) + VP)
+<NU> No islamizzazione. </NU>	AdvP
+<NU> i rom che rapinarono e provocarono la morte di #Zhang Yao impuniti. </NU> 	DP
+<NU> Che Italia triste. </NU>	DP
+<NU> strano che sia un #rom! </NU>	AP
+<NU> 1 milione per chiudere i campi rom. </NU>	DP
+<NU> "In arrivo multe per chi rovista tra i #rifiuti" </NU> 	NP
+<NU> con scarpe usate e vecchie pentole </NU>	PP
+<NU> Al massimo domiciliari in ruolotte in movimento! </NU>	NP
+<NU> Rimandare i rom in Romania,etc. visto che palesemente non hanno mezzi legali per vivere in Italia. </NU>	VP
+<NU> La peggior Italia </NU>	DP
+<NU> il peggio della sx... </NU>	DP
+<NU> 12 milioni ai rom   </NU> 	NP
+<NU> COOP =MAFIA VERGOGNA RIBELLIONE FORZA! </NU>	vari (NP + NP + NP + NP)
+<NU> #dallavostraparte </NU>	PP
+<NU> cl.........,rom,delinquenti di ogni tipo </NU>	vari (NP + NP + NP)
+<NU> Maledetto PD </NU>	FocP
+<NU> ma dopo almeno 10 anni di onoratissima e provata residenza e solo per i NON clandestini e rom! </NU>	&P (DP + PP)
+<NU> Tutti a casa loro!! </NU>	vP (DP + PP)
+<NU> Prima gli ITALIANI, </NU>	DP
+<NU> Distruggere l'islam ovunque comunque, </NU>	VP
+<NU> in coda a immigrati sempre, cominciando dall'asilo⛔️ poi la casa⛔️ poi il lavoro⛔️ </NU>	FocP
+<NU> e vivere in sicurezza senza la feccia di questi IMMIGRATI e rom impuniti che gira in ITALIA </NU>	VP
